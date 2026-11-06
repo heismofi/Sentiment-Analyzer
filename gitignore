@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build environment and PyInstaller output (rebuild with build_exe.bat)
+.venv_build/
+build/
+dist/
+*.spec
+nltk_data/
+
+# Results the tool generates
+output/
+sentiment_results.csv
+
+# Large Kaggle downloads (keep only the small bundled sample)
+*.zip
+*.csv
+!data/sample_social_media.csv
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

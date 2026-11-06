@@ -1,0 +1,61 @@
+id,date,platform,text,label
+1,2026-10-26,Twitter,"Great value for money, would definitely buy again.",positive
+2,2026-10-27,Instagram,The exam timetable has been uploaded to the portal.,neutral
+3,2026-10-28,Facebook,"Can't believe how easy the checkout was. Well done, designers!",positive
+4,2026-10-29,Twitter,The package arrived on Tuesday.,neutral
+5,2026-10-30,Instagram,Registration for the workshop closes on Friday.,neutral
+6,2026-10-31,Facebook,Going to the market to buy tomatoes and onions.,neutral
+7,2026-11-01,Twitter,"I feel so stressed and tired, this semester is awful.",negative
+8,2026-10-26,Instagram,Excellent battery life and a gorgeous screen. Highly recommend this tablet.,positive
+9,2026-10-27,Facebook,"Just got my new laptop and it is AMAZING!! Fast, light, and the battery lasts all day 😍",positive
+10,2026-10-28,Twitter,Customer service was kind and patient with me. Really appreciate it.,positive
+11,2026-10-29,Instagram,Very disappointed. The product looks nothing like the photos.,negative
+12,2026-10-30,Facebook,My sister just got her dream job and I couldn't be happier for her ❤️,positive
+13,2026-10-31,Twitter,"Honestly one of the best concerts I've ever attended, the energy was unreal",positive
+14,2026-11-01,Instagram,"Terrible experience, the website kept timing out during payment.",negative
+15,2026-10-26,Facebook,The match starts at 8pm tonight.,neutral
+16,2026-10-27,Twitter,Dropped my laptop off at the repair shop this morning.,neutral
+17,2026-10-28,Instagram,My order arrived broken and they refuse to refund me. Absolutely disgusting.,negative
+18,2026-10-29,Facebook,"Yeah great, another delayed delivery. Thanks a lot...",negative
+19,2026-10-30,Twitter,This update ruined the app. It crashes every time I open it!!!,negative
+20,2026-10-31,Instagram,Today is Wednesday and the weather is cloudy.,neutral
+21,2026-11-01,Facebook,"That movie was hilarious, I laughed the whole way through",positive
+22,2026-10-26,Twitter,"Awful movie. Boring plot and bad acting, I almost fell asleep.",negative
+23,2026-10-27,Instagram,The power went off again. Honestly sick of this.,negative
+24,2026-10-28,Facebook,Just posted a new blog about Python lists.,neutral
+25,2026-10-29,Twitter,Anyone know which bus goes to the city centre?,neutral
+26,2026-10-30,Instagram,Charging my phone before I head out.,neutral
+27,2026-10-31,Facebook,Updated my resume and sent it to two companies.,neutral
+28,2026-11-01,Twitter,The new phone model has a 6.1 inch display and 128GB storage.,neutral
+29,2026-10-26,Instagram,"I'm so excited for the weekend, big plans with friends!",positive
+30,2026-10-27,Facebook,"Shoutout to the support team at @TechHub, they fixed my issue in 5 minutes. Great service! #happy",positive
+31,2026-10-28,Twitter,Rent keeps going up and salaries are not. It's depressing.,negative
+32,2026-10-29,Instagram,The hostel room was dirty and smelled bad. Do not recommend.,negative
+33,2026-10-30,Facebook,The report is due next Monday.,neutral
+34,2026-10-31,Twitter,I'm really upset that they cancelled the event at the last minute.,negative
+35,2026-11-01,Instagram,"Finally a bank app that just works. Smooth, quick and secure.",positive
+36,2026-10-26,Facebook,What a beautiful sunrise this morning. Feeling grateful.,positive
+37,2026-10-27,Twitter,I'm reading a book about data structures.,neutral
+38,2026-10-28,Instagram,The store opens at 9am and closes at 6pm.,neutral
+39,2026-10-29,Facebook,Battery drains in three hours. What a joke of a phone.,negative
+40,2026-10-30,Twitter,Watching the news and having tea.,neutral
+41,2026-10-31,Instagram,"Today's lecture was actually fun and super helpful, thanks prof!",positive
+42,2026-11-01,Facebook,Our class group chat has 45 members now.,neutral
+43,2026-10-26,Twitter,"Food was cold, the waiter was rude, never coming back.",negative
+44,2026-10-27,Instagram,Total waste of money. Stopped working after two days.,negative
+45,2026-10-28,Facebook,The delivery arrived early and everything was perfectly packed. Thank you!,positive
+46,2026-10-29,Twitter,Best pizza I've had in years. Totally worth the wait :),positive
+47,2026-10-30,Instagram,"The new camera on this phone is stunning, photos look incredible",positive
+48,2026-10-31,Facebook,They charged me twice and support keeps ignoring my emails. Unacceptable!,negative
+49,2026-11-01,Twitter,The conference will take place next month.,neutral
+50,2026-10-26,Instagram,"Slow, buggy and full of ads. Uninstalling this garbage app.",negative
+51,2026-10-27,Facebook,"The network has been terrible all week, I'm so frustrated",negative
+52,2026-10-28,Twitter,"This course is brilliant, I finally understand machine learning.",positive
+53,2026-10-29,Instagram,"Worst flight delay of my life, and no one even apologised.",negative
+54,2026-10-30,Facebook,The library has moved to the second floor.,neutral
+55,2026-10-31,Twitter,Our team just won the hackathon!!! So proud of everyone 🎉,positive
+56,2026-11-01,Instagram,"Loving the new update, the app feels so much smoother now",positive
+57,2026-10-26,Facebook,Meeting is scheduled for 3pm in the main hall.,neutral
+58,2026-10-27,Twitter,"I hate waiting in traffic for hours, this city is exhausting 😡",negative
+59,2026-10-28,Instagram,Five stars. The hotel staff were friendly and the room was spotless.,positive
+60,2026-10-29,Facebook,Worst customer service ever. Waited two hours and nobody helped me. #fail,negative
